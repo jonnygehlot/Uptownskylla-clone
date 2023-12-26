@@ -186,7 +186,7 @@ html {
 }
 
 header {
-    background-image: url(Images/03_01-scaled.jpg);
+    background-image: url(../Images/03_01-scaled.jpg);
     /* height: 100vh; */
     background-repeat: no-repeat;
     background-size: cover;
@@ -452,7 +452,7 @@ section {
 }
 
 #section2 {
-    background-image: url(Images/bg-setion.jpg);
+    background-image: url(../Images/bg-setion.jpg);
     background-position: right;
     background-size: 84% 100%;
     background-repeat: no-repeat;
@@ -667,7 +667,7 @@ section {
 }
 
 .subsection6 {
-    background-image: url(Images/bg-setion.jpg);
+    background-image: url(../Images/bg-setion.jpg);
     /* height: 500px; */
     background-repeat: no-repeat;
     background-position: right;
@@ -718,7 +718,7 @@ section {
 }
 
 .subsection7_1 {
-    background-image: url(Images/bg1-h1.jpg);
+    background-image: url(../Images/bg1-h1.jpg);
     background-position: center;
 }
 
@@ -801,7 +801,7 @@ section {
 }
 
 #section9 {
-    background-image: url(Images/bg-setion.jpg);
+    background-image: url(../Images/bg-setion.jpg);
     background-position: right;
     background-repeat: no-repeat;
 }
@@ -953,7 +953,7 @@ section {
 }
 
 footer {
-    background-image: url(Images/footer-01.jpg);
+    background-image: url(../Images/footer-01.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 50px;
@@ -1100,7 +1100,7 @@ footer h3 {
  */
 
 .gry_header {
-    background-image: url(Images/Gallery-scaled.jpg);
+    background-image: url(../Images/Gallery-scaled.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1205,7 +1205,7 @@ footer h3 {
 }
 
 .location_header {
-    background-image: url(Images/07-Location-header-scaled.jpg);
+    background-image: url(../Images/07-Location-header-scaled.jpg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -1218,7 +1218,7 @@ footer h3 {
 }
 
 #location2 {
-    background-image: url(Images/bg-setion.jpg);
+    background-image: url(../Images/bg-setion.jpg);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 83% 100%;
@@ -1331,14 +1331,14 @@ footer h3 {
 }
 
 .site_plan {
-    background-image: url(Images/02_02-scaled.jpg);
+    background-image: url(../Images/02_02-scaled.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
 }
 
 .club {
-    background-image: url(Images/Club-Skylla-scaled.jpg);
+    background-image: url(../Images/Club-Skylla-scaled.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -1450,7 +1450,7 @@ table {
 }
 
 .contact {
-    background-image: url(Images/Why-choose-us-header-scaled.jpg);
+    background-image: url(../Images/Why-choose-us-header-scaled.jpg);
     background-size: cover;
     height: 100vh;
 }
@@ -1463,7 +1463,7 @@ table {
 }
 
 .pricelist {
-    background-image: url(Images/Price-List.jpg);
+    background-image: url(../Images/Price-List.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -1560,7 +1560,7 @@ table {
 }
 
 .Compliances {
-    background-image: url(Images/15-Compliance-header-04-scaled.jpg);
+    background-image: url(../Images/15-Compliance-header-04-scaled.jpg);
     background-position: center;
     background-size: cover;
     height: 70vh;
@@ -1624,7 +1624,7 @@ table {
 }
 
 .why-us {
-    background-image: url(Images/Why-choose-us-header-scaled.jpg);
+    background-image: url(../Images/Why-choose-us-header-scaled.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -1679,7 +1679,7 @@ table {
 }
 
 .BhK2 {
-    background-image: url(Images/2-BHK-1.jpg);
+    background-image: url(../Images/2-BHK-1.jpg);
     background-position: center;
     background-size: cover;
     height: 80vh;
@@ -1917,42 +1917,42 @@ table {
 }
 
 .BhK3 {
-    background-image: url(Images/3-BHK-Executive.jpg);
+    background-image: url(../Images/3-BHK-Executive.jpg);
     background-position: center;
     background-size: cover;
     height: 80vh;
 }
 
 .BhK3_premium {
-    background-image: url(Images/3-BHK-Premium.jpg);
+    background-image: url(../Images/3-BHK-Premium.jpg);
     background-position: center;
     background-size: cover;
     height: 80vh;
 }
 
 .BhK3_grande {
-    background-image: url(Images/3-BHK-grande.jpg);
+    background-image: url(../Images/3-BHK-grande.jpg);
     background-position: center;
     background-size: cover;
     height: 80vh;
 }
 
 .BhK3_servant {
-    background-image: url(Images/3-BHK-SERVANT-ROOM.jpg);
+    background-image: url(../Images/3-BHK-SERVANT-ROOM.jpg);
     background-position: center;
     background-size: cover;
     height: 80vh;
 }
 
 .BhK4_servant {
-    background-image: url(Images/4-BHK-SERVANT-ROOM-1.jpg);
+    background-image: url(../Images/4-BHK-SERVANT-ROOM-1.jpg);
     background-position: center;
     background-size: cover;
     height: 80vh;
 }
 
 .TechnicalSpeculation {
-    background-image: url(Images/Technical-Specifications-scaled.jpg);
+    background-image: url(../Images/Technical-Specifications-scaled.jpg);
     background-position: center;
     background-size: cover;
     height: 60vh;
@@ -1985,7 +1985,7 @@ table {
 }
 
 .TnC {
-    background-image: url(Images/02_02-scaled.jpg);
+    background-image: url(../Images/02_02-scaled.jpg);
     background-position: center;
     background-size: cover;
 }
